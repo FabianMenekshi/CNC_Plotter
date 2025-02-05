@@ -19,8 +19,8 @@
 ■ Arduino Uno (x1)
 
 ■ Stepper drivers 
-  1. A4988 (x2) for CNC Plotter v1.0
-  2. TMC2208 (x2) for CNC Plotter v2.0
+  1. A4988 (x2) -> for CNC Plotter v1.0
+  2. TMC2208 (x2) -> for CNC Plotter v2.0
 
 ■ Contact switch (x2)
 
@@ -29,8 +29,8 @@
 ■ 30mm 5V Fan (x1)
 
 ■ Rods
-  1. Chromed Steel Rods 8mm - 35cm (x2) & 5.5cm (x1)
-  2. Aluminium Steel Rods 8mm - 35cm (x2) & 5.5cm (x1)
+  1. Chromed Steel Rods 8mm - 35cm (x2) & 5.5cm (x1) -> for CNC Plotter v1.0
+  2. Aluminium Steel Rods 8mm - 35cm (x2) & 5.5cm (x1) -> for CNC Plotter v2.0
 
 ■ 30cm long linear rail with block (x1): https://geni.us/LinearRail300mm
 
