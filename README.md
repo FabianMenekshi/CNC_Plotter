@@ -44,10 +44,10 @@
 
 ■ Nuts, bolts and screws needed:
   1. M5 x 25mm (x2)
-  2. M3 x 18 (x3)
-  3. M3 x 12 (x2)
-  4. M3 x10 (x3)
-  5. M3 x 6 (X14)
+  2. M3 x 18mm (x3)
+  3. M3 x 12mm (x2)
+  4. M3 x 10mm (x3)
+  5. M3 x 6mm (X14)
   6. M3 nuts (x9)
   7. M5 nut (x1)
   8. Short wood screws (x8)
