@@ -32,7 +32,7 @@
   1. Chromed Steel Rods 8mm - 35cm (x2) & 5.5cm (x1) -> for CNC Plotter v1.0
   2. Aluminium Steel Rods 8mm - 35cm (x2) & 5.5cm (x1) -> for CNC Plotter v2.0
 
-■ 30cm long linear rail with block (x1): https://geni.us/LinearRail300mm
+■ 30cm long linear rail with block (x1)
 
 ■ Electrical wires
 
@@ -51,4 +51,4 @@
   6. M3 nuts (x9)
   7. M5 nut (x1)
   8. Short wood screws (x8)
-##### However I should note that I improvised for the Nuts, bolts and screws with what I found on my dad's garage. ;)
+##### However, I should note that I improvised a bit for the nuts, bolts and screws with what I found on my dad's garage. ;)
