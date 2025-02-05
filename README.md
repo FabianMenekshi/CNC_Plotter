@@ -50,4 +50,4 @@
   6. M3 nuts (x9)
   7. M5 nut (x1)
   8. Short wood screws (x8)
-##### However I should note that I improvised for the Nuts, bolts and screws with what I found on my dad's garage ;)
+##### However I should note that I improvised for the Nuts, bolts and screws with what I found on my dad's garage. ;)
