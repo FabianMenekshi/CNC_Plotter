@@ -52,3 +52,7 @@
   7. M5 nut (x1)
   8. Short wood screws (x8)
 ##### However, I should note that I improvised a bit for the nuts, bolts and screws with what I found on my dad's garage. ;)
+
+## Some videos of this project at work:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
