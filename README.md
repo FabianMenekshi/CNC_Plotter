@@ -1,4 +1,4 @@
-e# CNC Plotter with Arduino UNO & CNC SHIELD and 3D printed parts
+# CNC Plotter with Arduino UNO & CNC SHIELD and 3D printed parts
 
 ## Some words on the project:
 1. This project has a relatively low cost and can produce some very detailed drawings. It can be used to create t-shirts, cake decorations, drawings, wedding invitations, birthday Christmas cards and anything else you can think of. :)
