@@ -54,7 +54,5 @@
 ##### However, I should note that I improvised a bit for the nuts, bolts and screws with what I found on my dad's garage. ;)
 
 ## Some videos of this project at work:
-![alt text](https://github.com/FabianMenekshi/CNC_Plotter/blob/60fc0f5d1f9da0184521d56ad9b24d991919facc/Sample_Videos/vid_1.mp4)
-![alt text](https://github.com/FabianMenekshi/CNC_Plotter/blob/60fc0f5d1f9da0184521d56ad9b24d991919facc/Sample_Videos/vid_2.mp4)
-
-
+https://github.com/user-attachments/assets/dca5f559-422b-433d-b4aa-1edabc0bf913
+https://github.com/user-attachments/assets/6b037c8f-a789-4e17-ab69-7ed14da1a3b0
