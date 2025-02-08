@@ -55,3 +55,4 @@ e# CNC Plotter with Arduino UNO & CNC SHIELD and 3D printed parts
 
 ## Some videos of this project at work:
 https://github.com/user-attachments/assets/a5f085e5-ed28-48d0-94f8-743ca588dc42
+https://github.com/user-attachments/assets/99a800e9-0ae1-4b8a-a6c6-01305fec107f
