@@ -2,7 +2,7 @@
 
 ## Some words on the project:
 1. This project has a relatively low cost and can produce some very detailed drawings. It can be used to create t-shirts, cake decorations, drawings, wedding invitations, birthday Christmas cards and anything else you can think of. :)
-2. This project was done for the Albanian Science and Engineering Fair 2021 (for the v1.0) and the Albanian Science and Engineering Fair 2023 (for the v2.0). I participated in the Robotics category of this competition, getting Gold Medals both times.
+2. This project was done in regards of competing in the Albanian Science and Engineering Fair 2021 (for the v1.0) and in the Albanian Science and Engineering Fair 2023 (for the v2.0). I participated in the `Robotics category` of this competition, getting `Gold Medals` both times.
 3. This repository is adequate for both the v1.0 and the v2.0 versions of the CNC Plotter.
 
 ## List of items/materials used in this project:
