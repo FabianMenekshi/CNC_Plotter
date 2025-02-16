@@ -61,7 +61,7 @@
 ■ Gcode Sender: http://chilipeppr.com/grbl 
 
 ■ Serial Port JSON Server: https://github.com/chilipeppr/serial-port-json-server/releases 
-1. This is just a small programm that allows your web browser connect with the Arduino board just using a regular USB 2.0 A/B cable.
+1. This is just a small program that allows your web browser connect with the Arduino board just using a regular USB 2.0 A/B cable.
 2. Be sure to have the serial speed at: 115,200
 
 ## Some videos of this project at work:
