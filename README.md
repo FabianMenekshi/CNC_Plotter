@@ -53,10 +53,14 @@
   8. Short wood screws (x8)
 ##### However, I should note that I improvised a bit for the nuts, bolts and screws with what I found on my dad's garage. ;)
 
-## Regarding the software
+## How to make it move:
 ■ All the pieces of code/extensions needed for this project can be found and downloaded above.
 
 ■ Inkscape 0.48.5 for Windows: https://inkscape.org/release/inkscape-0.48/?latest=1 
+
+■ Gcode Sender: http://chilipeppr.com/grbl 
+
+■ Serial Port JSON Server: https://github.com/chilipeppr/serial-port-json-server/releases (be sure to have the serial speed at: 115,200)
 
 ## Some videos of this project at work:
 https://github.com/user-attachments/assets/a5f085e5-ed28-48d0-94f8-743ca588dc42
