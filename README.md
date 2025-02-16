@@ -55,6 +55,7 @@
 
 ## Regarding the software
 ■ All the pieces of code/extensions needed for this project can be found and downloaded above.
+
 ■ Inkscape 0.48.5 for Windows: https://inkscape.org/release/inkscape-0.48/?latest=1 
 
 ## Some videos of this project at work:
